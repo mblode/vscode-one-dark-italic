@@ -1,5 +1,9 @@
 The best rated One Dark port now includes Workbench theming!
 
+## Version 2.1.1
+
+* Added italics
+
 ## Version 2.1.0
 
 * Peek window is now themed
