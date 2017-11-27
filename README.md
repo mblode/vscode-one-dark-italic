@@ -19,17 +19,11 @@ It can also be installed using:
 
 Then go to Preferences > Color Theme > One Dark Italic.
 
-## Customization
-
-If you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
-
 ### Recommended settings for a better experience
 
-```json
-{
-    // Enables font ligatures
-    "editor.fontLigatures": true,
-    // Controls the font family.
-    "editor.fontFamily": "'Operator Mono', Menlo, Monaco, 'Courier New', monospace",
-}
+```
+// Enables font ligatures
+"editor.fontLigatures": true,
+// Controls the font family.
+"editor.fontFamily": "'Operator Mono', Menlo, Monaco, 'Courier New', monospace",
 ```
