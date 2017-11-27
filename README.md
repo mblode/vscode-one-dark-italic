@@ -22,8 +22,8 @@ Then go to Preferences > Color Theme > One Dark Italic.
 ### Recommended settings for a better experience
 
 ```
-// Enables font ligatures
-"editor.fontLigatures": true,
-// Controls the font family.
-"editor.fontFamily": "'Operator Mono', Menlo, Monaco, 'Courier New', monospace",
+  // Enables font ligatures
+  "editor.fontLigatures": true,
+  // Controls the font family.
+  "editor.fontFamily": "'Operator Mono', Menlo, Monaco, 'Courier New', monospace",
 ```
