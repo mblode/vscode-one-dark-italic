@@ -11,7 +11,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 ### Installation
 Install through Visual Studio Code extensions. Search for One Dark Italic Theme
 
-Visual Studio Code Market Place: Twig Language
+Visual Studio Code Market Place: One Dark Italic Theme
 
 It can also be installed using:
 
