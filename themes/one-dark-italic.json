@@ -1275,7 +1275,7 @@
 			"name": "Inline code",
 			"scope": "markup.raw.inline.markdown",
 			"settings": {
-				"background": "#212121"
+				"background": "#98C379"
 			}
 		}
 	],
