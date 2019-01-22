@@ -1,6 +1,6 @@
 # One Dark Italic Theme
 
-VSCode Theme based on Atom's [One Dark](https://github.com/atom/one-dark-syntax) theme with italics.
+One Dark VS Code Theme with italics and Markdown support.
 
 ![Screenshot preview](https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/screenshots/preview.png)
 
@@ -9,6 +9,7 @@ VSCode Theme based on Atom's [One Dark](https://github.com/atom/one-dark-syntax)
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mblode.one-dark-italic).
 
 ### Installation
+
 Install through Visual Studio Code extensions. Search for One Dark Italic Theme
 
 Visual Studio Code Market Place: One Dark Italic Theme
