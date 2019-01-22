@@ -2,7 +2,7 @@
     "name": "one-dark-italic",
     "displayName": "One Dark Italic Theme",
     "description": "One Dark Theme based on Atom with Italics",
-    "version": "2.1.6",
+    "version": "2.2.0",
     "publisher": "mblode",
     "author": {
         "name": "Matthew Blode",
@@ -18,7 +18,7 @@
         "vscode": "^1.17.0"
     },
     "categories": ["Themes"],
-    "keywords": ["atom", "theme", "dark", "one dark", "italic"],
+    "keywords": ["atom", "theme", "dark", "one dark", "italic", "markdown"],
     "icon": "icon.png",
     "contributes": {
         "themes": [

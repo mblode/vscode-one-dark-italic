@@ -1,4 +1,6 @@
-The best rated One Dark port now includes Workbench theming!
+## Version 2.2.0
+
+* Added better Markdown support
 
 ## Version 2.1.1
 
