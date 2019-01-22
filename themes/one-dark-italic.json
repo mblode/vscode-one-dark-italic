@@ -1100,7 +1100,7 @@
 				"punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#555555",
+				"foreground": "#999999",
 				"background": "#11111100"
 			}
 		},
@@ -1129,7 +1129,7 @@
 			"scope": ["markup.bold_italic", "markup.bold_italic.markdown"],
 			"settings": {
 				"fontStyle": "bold italic",
-				"foreground": "#aaaaaa"
+				"foreground": "#999999"
 			}
 		},
 		{
@@ -1222,7 +1222,7 @@
 			"name": "Blockquote",
 			"scope": "markup.quote.markdown",
 			"settings": {
-				"foreground": "#aaaaaa"
+				"foreground": "#999999"
 			}
 		},
 		{
@@ -1268,14 +1268,20 @@
 			"scope": "markup.raw.block.markdown",
 			"settings": {
 				"background": "#212121",
-				"foreground": "#aaaaaa"
+				"foreground": "#999999"
 			}
 		},
 		{
 			"name": "Inline code",
 			"scope": "markup.raw.inline.markdown",
 			"settings": {
-				"background": "#98C379"
+				"background": "#bbbbbb"
+			}
+		},
+		{
+			"scope": "markup.inline.raw.string.markdown",
+			"settings": {
+				"foreground": "#98C379"
 			}
 		}
 	],
