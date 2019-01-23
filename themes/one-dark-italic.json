@@ -1026,7 +1026,7 @@
 			"scope": ["entity.name.section", "entity.name.section.markdown"],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#cccccc"
+				"foreground": "#dddddd"
 			}
 		},
 		{
@@ -1064,7 +1064,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#bbbbbb"
+				"foreground": "#cccccc"
 			}
 		},
 		{
@@ -1080,7 +1080,7 @@
 			"name": "Markdown: Link",
 			"scope": ["string.other.link.title.markdown", "string.other.link.description.markdown"],
 			"settings": {
-				"foreground": "#cccccc",
+				"foreground": "#c678dd",
 				"background": "#22222200"
 			}
 		},
@@ -1113,7 +1113,7 @@
 				"markup.list.numbered.markdown meta.paragraph.list.markdown"
 			],
 			"settings": {
-				"foreground": "#bbbbbb",
+				"foreground": "#cccccc",
 				"background": "#11111100"
 			}
 		},
@@ -1252,7 +1252,7 @@
 			"name": "Blockquote (Bold)",
 			"scope": ["", "text.html.markdown markup.quote.markdown markup.bold", "", "text.html.markdown markup.quote.markdown markup.bold.markdown", ""],
 			"settings": {
-				"foreground": "#bbbbbb"
+				"foreground": "#cccccc"
 			}
 		},
 		{
@@ -1275,7 +1275,7 @@
 			"name": "Inline code",
 			"scope": "markup.raw.inline.markdown",
 			"settings": {
-				"background": "#bbbbbb"
+				"background": "#cccccc"
 			}
 		},
 		{
